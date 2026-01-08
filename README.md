@@ -2,7 +2,7 @@
 
 **`Análise de Dados`**
 
-Meu nome é Vinicius Kawanishi Almeida, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Terezinha Monteiro dos Santos, onde cursei o ensino técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
+Meu nome é Vinicius Kawanishi Almeida, tenho 19 anos e sou natural do estado de São Paulo. Concluí o ensino médio na Etec Terezinha Monteiro dos Santos, onde cursei o ensino técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
 ---
 
